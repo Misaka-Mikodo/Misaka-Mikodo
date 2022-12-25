@@ -1,7 +1,7 @@
 - 👋 哈喽，我是御坂坂美琴琴
 - 👀 会Python\C++
 - 🌱 正在学习音视频的知识
-- 📫 How to reach me ...
+- 📫 wechat: z17350294729
 
 <!---
 Misaka-Mikodo/Misaka-Mikodo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
